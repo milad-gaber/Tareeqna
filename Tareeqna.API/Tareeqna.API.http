@@ -1,0 +1,6 @@
+@Tareeqna.API_HostAddress = http://localhost:5101
+
+GET {{Tareeqna.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
