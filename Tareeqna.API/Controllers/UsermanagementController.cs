@@ -10,7 +10,7 @@ namespace Tareeqna.API.Controllers
         [HttpGet("HiFromUsermanagement")]
         public string SayHi()
         {
-            return "Hi shady";
+            return "Hi shady 2";
         }
     }
 
